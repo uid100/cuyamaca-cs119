@@ -1,0 +1,151 @@
+{
+  "college": "cuyamaca",
+  "instructor": "dan-sullivan",
+  "courseNumber": "CS 119",
+  "courseTitle": "Program Design and Development",
+  "units": "3+1",
+  "coverImage": "/images/logic.png",
+  "description": [
+    "This class is an introduction to programming and program design using the Python programming language."
+  ],
+  "prerequisites": "none",
+  "defaultSection": "fa2025",
+  "contact": {
+    "instructorEmail": "daniel.sullivan@cuyamaca.edu",
+    "officeHours": {
+      "location": "Remote",
+      "schedule": "weekly Wed 2:30P - 4:00P EST",
+      "label": "Wed 2:30P - 4P",
+      "zoomLink": "https://gcccd-edu.zoom.us/j/86820196212?pwd=VkRFdW9JNlhNYlVWVWZWcm5rR1ZhUT09"
+    },
+    "discordLink": {
+      "label": "Discord: Code Bytes",
+      "url": "https://discord.gg/MpHjV4qgxZ"
+    },
+    "about": "preferred method of contact is via email. I will respond to emails within 24 hours on weekdays. Published office hours are times when I will be available on Zoom for real-time communication. If you need to meet at a different time, please email me to schedule an appointment.\nDiscord channels are also available for anytime communication with me and your classmates."
+  },
+  "outcomes": "outcomes/clo.json",
+  "objectives": "outcomes/slo.json",
+  "textbook": "materials/textbook.json",
+  "content": {
+    "modules": {
+      "00-implementation-notes": {
+        "title": "Module 00 - notes only",
+        "pages": {
+          "implementation-note": { "1": "use *resource* for absolute (external) links", "2": "use *source* for course-repo relative (internal) links, courseBase + source" }
+        }
+      },
+      "01-intro": {
+        "module": 1,
+        "title": "Chapter 1 - An Overview of Computer Programming",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "content/module1.html" },
+          "end": { "title": "End Module 1: An Overview of Computer Programming", "type": "content", "source": "content/end-module.html"}
+        }
+      },
+      "02-applications": {
+        "title": "Chapter 2 - Applications and Data",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module2.html" },
+          "end": { "title": "End of Module 2: Applications and Data", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "03-decisions": {
+        "title": "Chapter 3 - Making Decisions",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module3.html" },
+          "end": { "title": "End of Module 3: Making Decisions", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "",
+          "tabs": {
+            "instructions": { "title": "Instructions", "type": "content", "source": "/content/lab03-instructions.html" },
+            "submission": { "title": "Submission", "type": "submission", "source": "/content/lab03-submission.html" }
+          }
+        }
+      },
+      "04-loops": {
+        "title": "Chapter4 - Looping",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module4.html" },
+          "end": { "title": "End of Module 4: Looping", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "05-arrays": {
+        "title": "Chapter 5 - Arrays",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module5.html" },
+          "end": { "title": "End of Module 5: Arrays", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "06-methods": {
+        "title": "Chapter 6 - Using Methods",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module6.html" },
+          "end": { "title": "End of Module 6: Using Methods", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "07-oop": {
+        "title": "Chapter 7 - Object-Oriented Programming",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module7.html" },
+          "end": { "title": "End of Module 7: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "08-oop2": {
+        "title": "Module 08 - More Object Concepts",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module8.html" },
+          "end": { "title": "End of Module 8: More Object Concepts", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "09-events": {
+        "title": "Chapter 9 -  Event-driven Programming and GUIs",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module9.html" },
+          "end": { "title": "End of Module 9: Event-driven Programming and GUIs", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "10-exceptions": {
+        "title": "Chapter 10 - Exception Handling",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module10.html" },
+          "end": { "title": "End of Module 10: Exception Handling", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "11-client-server": {
+        "title": "Client - Server Architecture",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module11.html" },
+          "end": { "title": "End of Module 11: Client - Server Architecture", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "12-uml": {
+        "title": "Chapter 11 - System Modeling with UML",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module12.html" },
+          "end": { "title": "End of Module 12: System Modeling with UML", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "13-algorithms": {
+        "title": "Chapter 12 - Manipulating Data with Algorithms",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module13.html" },
+          "end": { "title": "End of Module 13: Manipulating Data with Algorithms", "type": "content", "source": "/content/end-module.html"}
+        }
+      }
+    }
+  },
+  "templates": {
+    "syllabus": "core:syllabus",
+    "syllabus(override)": "syllabus/syllabus.html",
+    "policies": "policies/policies.html"
+  },
+  "materials": {
+    "required": "materials/required.html",
+    "recommended": "materials/recommended.html"
+  },
+  "gradingDetails": "grading/grading-details.html",
+  "accommodations": "accommodations/accommodations.html",
+  "topicOutline": "outline/outline.html"
+}
