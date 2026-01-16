@@ -56,6 +56,9 @@
         "title": "Module 2: (Chapter 2) Applications and Data",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module2.html" },
+          "interpreter": { "title": "The Python Interpreter", "type": "content", "source": "/content/interpreter.html" },
+          "directive": { "title": "Interpreter Directive", "type": "content", "source": "/content/directive.html" },
+          "chap2": { "title": "Chapter 2: Applications and Data", "type": "content", "source": "/content/chap2.html" },
           "end": { "title": "End of Module 2: Applications and Data", "type": "content", "source": "/content/end-module.html"}
         }
       },
