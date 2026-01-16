@@ -48,13 +48,8 @@
         },
         "lab": {
           "title": "Lab 1 - Orientation, Overview of computers and logic. Introduction to flowcharts & pseudocode",
-          "tabs": {
-            "instructions": { "title": "Instructions", "type": "content", "source": "/content/lab01/instructions.html" },
-            "ex1": { "title": "Exercise 1", "type": "content", "source": "/content/lab01/ex1-multiply.html" },
-            "ex2": { "title": "Exercise 2", "type": "content", "source": "/content/lab01/ex2-km-to-miles.html" },
-            "ex3": { "title": "Exercise 3", "type": "content", "source": "/content/lab01/ex3-miles-to-km.html" },
-            "submission": { "title": "Submission", "type": "submission", "source": "/content/lab01/submission.html" }
-          }
+          "taskListUrl": "https://uid100.github.io/cuyamaca-cs119/content/lab01/todo.json",
+          "fragmentsBase": "https://uid100.github.io/cuyamaca-cs119/content/lab01/"
         }
       },
       "02-applications": {
