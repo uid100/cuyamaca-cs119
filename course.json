@@ -152,6 +152,7 @@
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module14.html" },
           "end": { "title": "End of Module 14: Course Wrap-Up", "type": "content", "source": "/content/end-module.html"}
         }
+      }
     }
   },
   "templates": {
