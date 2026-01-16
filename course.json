@@ -145,7 +145,13 @@
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module13.html" },
           "end": { "title": "End of Module 13: Manipulating Data with Algorithms", "type": "content", "source": "/content/end-module.html"}
         }
-      }
+      },
+      "14-wrap-up": {
+        "title": "Module 14: Course Wrap-Up",
+        "pages": {
+          "overview": { "title": "Module Overview", "type": "content", "source": "/content/module14.html" },
+          "end": { "title": "End of Module 14: Course Wrap-Up", "type": "content", "source": "/content/end-module.html"}
+        }
     }
   },
   "templates": {
