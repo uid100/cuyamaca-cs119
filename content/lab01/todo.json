@@ -1,6 +1,6 @@
 [
   { "title": "Instructions", "file": "instructions.html" },
-  { "title": "Exercise 1", "file": "1ex1-multiply.html" },
+  { "title": "Exercise 1", "file": "ex1-multiply.html" },
   { "title": "Exercise 2", "file": "ex2-km-to-miles.html" },
   { "title": "Exercise 3", "file": "ex3-miles-to-km.html" },
   { "title": "Submission", "file": "submission.html" }
