@@ -66,6 +66,7 @@
         "title": "Module 3: (Chapter 3) Making Decisions",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module3.html" },
+          "chap3": { "title": "Chapter 3: Making Decisions", "type": "content", "source": "/content/chap3.html" },
           "end": { "title": "End of Module 3: Making Decisions", "type": "content", "source": "/content/end-module.html"}
         },
         "lab": {
@@ -80,6 +81,7 @@
         "title": "Module 4: (Chapter 4) Looping",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module4.html" },
+          "chap4": { "title": "Chapter 4: Looping", "type": "content", "source": "/content/chap4.html" },
           "end": { "title": "End of Module 4: Looping", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -87,6 +89,7 @@
         "title": "Module 5: (Chapter 5) Arrays",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module5.html" },
+          "chap5": { "title": "Chapter 5: Arrays", "type": "content", "source": "/content/chap5.html" },
           "end": { "title": "End of Module 5: Arrays", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -94,6 +97,7 @@
         "title": "Module 6: (Chapter 6) Using Methods",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module6.html" },
+          "chap6": { "title": "Chapter 6: Using Methods", "type": "content", "source": "/content/chap6.html" },
           "end": { "title": "End of Module 6: Using Methods", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -101,6 +105,7 @@
         "title": "Module 7: (Chapter 7) Object-Oriented Programming",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module7.html" },
+          "chap7": { "title": "Chapter 7: Object-Oriented Programming", "type": "content", "source": "/content/chap7.html" },
           "end": { "title": "End of Module 7: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -108,6 +113,7 @@
         "title": "Module 8: (Chapter 8) More Object Concepts",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module8.html" },
+          "chap8": { "title": "Chapter 8: More Object Concepts", "type": "content", "source": "/content/chap8.html" },
           "end": { "title": "End of Module 8: More Object Concepts", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -115,6 +121,7 @@
         "title": "Module 9: (Chapter 9) Event-driven Programming and GUIs",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module9.html" },
+          "chap9": { "title": "Chapter 9: Event-driven Programming and GUIs", "type": "content", "source": "/content/chap9.html" },
           "end": { "title": "End of Module 9: Event-driven Programming and GUIs", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -122,6 +129,7 @@
         "title": "Module 10: (Chapter 10) Exception Handling",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module10.html" },
+          "chap10": { "title": "Chapter 10: Exception Handling", "type": "content", "source": "/content/chap10.html" },
           "end": { "title": "End of Module 10: Exception Handling", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -136,6 +144,7 @@
         "title": "Module 12: (Chapter 11) System Modeling with UML",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module12.html" },
+          "chap11": { "title": "Chapter 11: System Modeling with UML", "type": "content", "source": "/content/chap11.html" },
           "end": { "title": "End of Module 12: System Modeling with UML", "type": "content", "source": "/content/end-module.html"}
         }
       },
@@ -143,6 +152,7 @@
         "title": "Module 13: (Chapter 12) Manipulating Data with Algorithms",
         "pages": {
           "overview": { "title": "Module Overview", "type": "content", "source": "/content/module13.html" },
+          "chap12": { "title": "Chapter 12: Manipulating Data with Algorithms", "type": "content", "source": "/content/chap12.html" },
           "end": { "title": "End of Module 13: Manipulating Data with Algorithms", "type": "content", "source": "/content/end-module.html"}
         }
       },
