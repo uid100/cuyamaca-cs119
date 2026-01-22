@@ -32,7 +32,8 @@
       "00-implementation-notes": {
         "title": "Module 00 - notes only",
         "pages": {
-          "implementation-note": { "1": "use *resource* for absolute (external) links", "2": "use *source* for course-repo relative (internal) links, courseBase + source" }
+          "implementation-note": { "1": "use *resource* for absolute (external) links", "2": "use *source* for course-repo relative (internal) links, courseBase + source" },
+          "corequisite": { "title": "CS119/CS119L", "source": "/lab_corequisite.html", "type": "content" }
         }
       },
       "01-intro": {
