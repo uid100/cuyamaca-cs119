@@ -29,7 +29,7 @@
   "textbook": "materials/textbook.json",
   "content": {
     "modules": {
-      "00-implementation-notes": {
+      "00-notes": {
         "title": "Module 00 - notes only",
         "pages": {
           "implementation-note": { "1": "use *resource* for absolute (external) links", "2": "use *source* for course-repo relative (internal) links, courseBase + source" },
